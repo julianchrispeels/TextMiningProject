@@ -1,2 +1,16 @@
-# TextMiningProject
-Proyecto de Text Mining: Fine tuning subtitulos de peliculas
+# Translating Genres
+
+## Resumen
+
+
+## Hipótesis de trabajo
+
+
+## Objetivos preliminares
+
+
+## Técnicas relevantes para aplicar
+
+ 
+
+## Referencia
