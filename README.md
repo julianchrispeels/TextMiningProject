@@ -23,3 +23,10 @@ Las formas de hablar y expresarse en cada género cinematográfico son tan carac
 Topic Extraction from Subtitles](https://kbogas.github.io/publ/setn_2016.pdf)
 
 ## Planificación
+- **Semana 1**: Revisión, selección y tratamiento de la base de datos de subtítulos de películas. Verificación de la calidad y diversidad de los géneros. Definición de las películas a incluir. Investigación de librerías y repositorios. Familiarización con spaCy.
+
+- **Semana 2 y 3**: Implementación del modelo de lenguaje inicial utilizando técnicas de fine-tune sobre el género "Western", entrenándolo con la base de datos de los subtítulos pre-tratadas. Chequeo manual de la funcionalidad del modelo.
+
+- **Semana 4 y 5**: Ajuste y expansión del modelo para el resto de los géneros, pruebas de traducciones de textos, evaluación y análisis de error.
+
+- **Semana 6**: Revisión final del proyecto y repositorio, preparación de presentación final del mismo.
