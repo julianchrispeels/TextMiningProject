@@ -12,10 +12,14 @@ Las formas de hablar y expresarse en cada género cinematográfico son tan carac
 - **Análisis de errores y refinamiento del modelo**: Evaluación de los errores de adaptación entre géneros y de preservación del contenido de los subtítulos.
 
 ## Técnicas relevantes para aplicar
-- Finetune
-- LDA
-- STS
+- Fine-tune para adaptar el modelo a las particularidades de cada género.
+- Latent Dirichlet Allocation (LDA) para topic modeling.
+- Semantic Textual Similarity (STS) para medir qué tan bien el contenido original se preserva durante la traducción entre géneros.
 
+## Referencias
+- [Semantic Textual Similarity (SBERT.net)](https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html)
+- [Movie Genre Prediction from Subtitles](https://github.com/pranav88/Movie-Genre-Prediction-from-Subtitles)
+- [Content Representation and Similarity of Movies based on
+Topic Extraction from Subtitles](https://kbogas.github.io/publ/setn_2016.pdf)
 
-## Referencia
-- [Semantic Textual Similarity](https://www.sbert.net/docs/sentence_transformer/usage/semantic_textual_similarity.html)
+## Planificación
